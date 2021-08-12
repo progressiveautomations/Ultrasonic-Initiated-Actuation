@@ -25,7 +25,6 @@ void setup() {
   pinMode(EnablePin1, OUTPUT);
   digitalWrite(EnablePin1, HIGH); //enable the board
 
-  
 }
 
 void loop() {
@@ -65,13 +64,11 @@ void loop() {
         }
         }while (CRawAvg > Previous_CRaw+15 || CRawAvg < Previous_CRaw-15);
     }
-    
-    
-    
+       
   }
 
-  else{
-    
+  else
+  { 
   }
   
 
