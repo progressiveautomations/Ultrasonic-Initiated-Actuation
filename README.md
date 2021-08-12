@@ -20,8 +20,8 @@ Motor- to MegaMoto B
 
 VCC to 5V Arduino
 GND to GND Arduino
-Trig to Pin 8 Arduino 
-Echo to Pin 7 Arduino
+Trig to Pin 35 Arduino 
+Echo to Pin 40 Arduino
 
 
 -Guninder M
