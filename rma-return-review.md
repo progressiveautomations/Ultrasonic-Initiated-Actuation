@@ -326,9 +326,6 @@ Suggested table: `return_label_packages`
 - Store pickup confirmation and status.
 
 ## Open Decisions 
-
-- Which FedEx account should pay for US return labels?
-- Which US warehouse/receiver address should be used?
 - Should Phase 1 support only domestic US-to-US returns?
 - Should customer be allowed to edit package dimensions, or only reps?
 - What packaging buffer should be added to NetSuite item weight?
