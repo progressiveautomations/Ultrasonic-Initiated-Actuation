@@ -325,7 +325,7 @@ Suggested table: `return_label_packages`
 - Show pickup only when the account/service supports it.
 - Store pickup confirmation and status.
 
-## Open Decisions For Boss
+## Open Decisions 
 
 - Which FedEx account should pay for US return labels?
 - Which US warehouse/receiver address should be used?
